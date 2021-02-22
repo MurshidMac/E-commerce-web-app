@@ -12,3 +12,11 @@ exports.config = {
       "/mernproject"
 };
 
+//database username = dbuser
+// password = NhtylHVTkK0pYgtq
+
+
+// module.exports = {
+//   MDB: 'mongodb+srv://dbuser:NhtylHVTkK0pYgtq@cluster0.bdaio.mongodb.net/mernproject?retryWrites=true&w=majority',
+//   SECRET_KEY: 'ofjaofjaofaofjaofjaofaofafojapfjicdiix'
+// }
